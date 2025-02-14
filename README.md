@@ -15,7 +15,9 @@ I'm always expanding my knowledge in cloud security, automation, and distributed
 
 ## 💬 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Getting Started with Home Lab Equipment on a Budget](/posts/finding-hardware/)
+- [Installing Longhorn on Talos Linux: A Step-by-Step Guide](/posts/talos-longhorn/)
+- [Hello World](/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -1,5 +1,6 @@
 ## Hi there 👋
-<video src="banner.mp4" width="320" height="240" controls></video>
+<img src="https://raw.githubusercontent.com/phin3has/phin3has/refs/heads/main/banner.gif" alt="banner that says hello">
+
 <!--
 **phin3has/phin3has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

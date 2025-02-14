@@ -14,10 +14,11 @@ I'm always expanding my knowledge in cloud security, automation, and distributed
 ---
 
 ## 💬 My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 
----
-## 🤔 Contact Me
 
 <!--
 **phin3has/phin3has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
